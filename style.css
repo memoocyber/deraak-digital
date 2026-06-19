@@ -1,0 +1,30 @@
+Body {
+  Background-color: #0b1f3a; /* كحلي غامق */
+  Color: white;
+  Font-family: Arial;
+  Text-align: center;
+}
+
+H1 {
+  Color: #00d4ff;
+}
+
+Button {
+  Background-color: #00d4ff;
+  Color: black;
+  Border: none;
+  Padding: 12px 20px;
+  Margin: 10px;
+  Font-size: 16px;
+  Border-radius: 8px;
+  Cursor: pointer;
+}
+
+Button:hover {
+  Background-color: white;
+  Color: black;
+}
+
+A {
+  Color: #00d4ff;
+}
